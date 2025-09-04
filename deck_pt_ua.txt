@@ -1,0 +1,172 @@
+estreito : вузький, тісний
+apartado : відокремлений
+largo : широкий
+comprido : довгий
+curto : короткий
+ótimo : чудовий
+péssimo : жахливий
+agradável : задовільний, приємний, нормальний
+convencido : переконаний
+seguido : наступний
+passado : минулий
+anterior : попередній
+liso : гладкий, плаский (на дотик)
+coberto : критий, накритий, покритий
+mensal : місячний
+nocturno : нічний
+estabelecido : встановлений
+habituado : звиклий
+esperto : хитророзумний (smart)
+orgulhoso : гордий 
+
+a vergonha : стид, позор
+o bocado : шматочок, проміжок
+o numerário : валюта
+o negócio : бізнес
+o caso : справа, кейс
+os anteriores : попередники
+a gorjeta : чайові
+a ementa, a lista : меню
+o acontecimento : подія, випадок
+a chamada : дзвінок
+o acordo : домовленість
+a regra : правило
+a lei : закон
+a piada : жарт
+a venda : продаж
+a alcunha : кличка
+o congelador : морозилка
+os pesadelos : кошмари
+a insônia : бессоння 
+o sono profundo : гарний сон
+a alma : душа
+a planta : схема, план
+a esquina : куток (вулиць)
+o canto : куток (кімнати)
+o cruzamento : перехрестя
+o passeiro : тротуар 
+a passadeira : перехід
+o semáforo : світлофор
+a praça : площа, де тільки люди
+o largo : площа, де машини, люди
+a calçada : дорога
+o quarteirão : квартал
+a zona : район, міська зона
+o telhado : дах
+o pátio : дворик
+o assoalhado : покриття підлоги
+a torneira : кран
+o piso : поверх (в загальному, в тц)
+o andar : поверх (в жилих будівлях)
+a arrecadação : кладовка
+a cave : підвал
+o pneu : шина
+a roda : колесо, круг, коло
+a vivenda : невеликий будинок
+a moradia : вілла
+os estores : ставні, ролети
+as casas geminadas : зʼєднані будинки
+o craque : вундеркід 
+a série : серіал
+as obras : ремонтні роботи, будівництво 
+a mão de obra : робоча сила
+a leitura : лічильник
+a folga : вихідний
+o dia útil : будній день
+a paz : мир
+o som : звук
+a prova : доказ
+a verção : версія
+a geração : покоління
+a madrasta : мачуха
+o padrasto : вітчим
+o feno : сіно
+a argila : глина
+o lar : будинок престарілих
+o depositário : охоронець, хранитель
+a sabedoria : мудрість
+a afectividade : теплота, прихильність
+a varinha : паличка
+a doença grave : важка хвороба
+a má fama : погана репутація
+a minha maneira : свій стиль
+o ativo : актив
+a juventude : юність
+a preferência : перевага, вибір
+
+roubar : красти
+esconder : ховати
+encomendar : замовляти (завчасно)
+pedir : просити, замовляти (на зараз), запитувати
+enervar-se : нервуватися
+engordar : набирати вагу
+emagrecer : худнути
+encontrar : знаходити, придумувати
+deter : конфіскувати
+desconfiar de : підозрювати 
+lamentar : шкодувати
+insistir : наполягати
+negociar : торгуватися
+servir : обслуговувати, послуговувати
+passar : пройти, проводити
+passear : гуляти
+acontecer : відбуватися
+escapar : втекти
+importar-se : бути непроти
+cruzar-se : пересіктись
+virar : повертити
+cortar : зрізати
+atravessar : перетинати
+enganar-se : помилятися
+perder-se : загубитися
+demorar : затримуватися, тривати, забирати часу
+estar sentado : сидіти 
+sentar : сідати 
+estar deitado : лежати
+deitar : лягати
+adiar : переносити, відкладати
+acordar : прокидатись 
+adormecer : засинати
+incomodar : заважати, турбувати
+ter soneca : дрімати
+convidar : запрошувати
+habituar-se : звикнути, привчати себе
+costumar : мати звичку 
+ter certeza de : бути впевненим в
+fazer-se um favor : робити послугу
+lembrar-se de : памʼятати, згадувати
+lembrar (me/te/lhe/ a alguém) : нагадувати
+fazer malha : вʼязати
+contar : розповідати, рахувати (про гроші)
+tomar conta : приглядати, спостерігати
+beijar : цілувати
+emprestar : позичати
+
+Não me serve : Мені не підходить
+Volta sempre! : Повертайтесь ще!
+Sabia dizer:me.. : Підкажіть, будь ласка...
+Sei lá! : Я там знаю, хз!
+Vamos lá! : Погнали!
+Faz parte! : Така доля!
+Estou-me nas tintas : Мені фіолетово
+
+em frente de : перед (лице до лиця)
+a frente de : попереду (один за одним)
+ao lado de : збоку
+perto de : близько 
+ao pé de : поблизу (типу рукою подати)
+a pé : пішки
+de pé : навстоячки
+geralmente : Загалом
+maioritariamente : переважно 
+demais : занадто
+exceto : окрім 
+logo : відразу
+mais logo : пізніше 
+talvez : напевно
+em cima da hora : якраз вчасно
+no sentido de : в сенсі
+de vez enquanto : час від часу
+um bocadinho : трішечки
+desde aí : відтоді
+
