@@ -18,7 +18,10 @@ estabelecido : встановлений
 habituado : звиклий
 esperto : хитророзумний (smart)
 orgulhoso : гордий 
+alogado : орндований
 
+a esteja : премʼєра
+a pista: підказка
 a vergonha : стид, позор
 o bocado : шматочок, проміжок
 o numerário : валюта
@@ -93,7 +96,21 @@ a minha maneira : свій стиль
 o ativo : актив
 a juventude : юність
 a preferência : перевага, вибір
+o convite : запрошення
+o encontro : зустріч
+a prenda, o presente : подарунок
 
+ter pena de : шкодувати про щось
+lamentar : висловлювати жаль (особливо коли трапилось щось трагічне)
+oferecer, dar : дарувати 
+felicitar : бажати щастя
+aceitar : приймати
+recusar : відхиляти
+combiar : домовлятись
+agradecer : бути вдячним, дякувати
+obrigar : змушувати
+marcar : назначати
+alogar : знімати в оренду 
 roubar : красти
 esconder : ховати
 encomendar : замовляти (завчасно)
@@ -149,6 +166,8 @@ Sei lá! : Я там знаю, хз!
 Vamos lá! : Погнали!
 Faz parte! : Така доля!
 Estou-me nas tintas : Мені фіолетово
+Felicidades! : Щастя!
+Meus sentimentos : Мої співчуття
 
 em frente de : перед (лице до лиця)
 a frente de : попереду (один за одним)
@@ -169,4 +188,5 @@ no sentido de : в сенсі
 de vez enquanto : час від часу
 um bocadinho : трішечки
 desde aí : відтоді
-
+há muito tempo : давно 
+desde criança : з дитинства
