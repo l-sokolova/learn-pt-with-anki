@@ -19,6 +19,10 @@ habituado : звиклий
 esperto : хитророзумний (smart)
 orgulhoso : гордий 
 alogado : орндований
+cru/crua : сирий
+estragada : зіпсований
+mocado : накурений, під кайфом
+
 
 a esteja : премʼєра
 a pista: підказка
@@ -99,6 +103,17 @@ a preferência : перевага, вибір
 o convite : запрошення
 o encontro : зустріч
 a prenda, o presente : подарунок
+o escaldão : опік шкіри
+a fuga : витік
+o/a queixinha : ябіда
+café escaldada : кава в підігрітій чашці
+café em chavena fria : кава в хододному посуді
+a carga : багаж
+os dados móveis : мобільні дані
+a ausência : відсутність
+a presença : присутність 
+o grelhamento : гриль
+
 
 ter pena de : шкодувати про щось
 lamentar : висловлювати жаль (особливо коли трапилось щось трагічне)
@@ -158,7 +173,17 @@ contar : розповідати, рахувати (про гроші)
 tomar conta : приглядати, спостерігати
 beijar : цілувати
 emprestar : позичати
+apanhar a moca : зловити пріход (кайф)
+poupar : зекономити
+queixar-se : жалітись
+reclamar : скаржитися
+procurar : шукати
+caregar : тягнути, заряджати
+emprestar : позичити комусь
+pedir emprestado : позичити в когось
+dobrar : складати, згортати 
 
+Não é legal! : Це не прикольно!
 Não me serve : Мені не підходить
 Volta sempre! : Повертайтесь ще!
 Sabia dizer:me.. : Підкажіть, будь ласка...
@@ -168,6 +193,8 @@ Faz parte! : Така доля!
 Estou-me nas tintas : Мені фіолетово
 Felicidades! : Щастя!
 Meus sentimentos : Мої співчуття
+a cara traneada : pocker face
+perdidos e achados : lost&found
 
 em frente de : перед (лице до лиця)
 a frente de : попереду (один за одним)
@@ -190,3 +217,4 @@ um bocadinho : трішечки
 desde aí : відтоді
 há muito tempo : давно 
 desde criança : з дитинства
+a parte : вбік
