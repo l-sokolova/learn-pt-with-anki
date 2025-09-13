@@ -13,4 +13,6 @@ To create PT-UA deck:
 
 ## Contributing
 
-Pull requests are welcome, Valera :)
+1. Pull requests are welcome, Valera :)
+2. If you need to merge translation of duplicated words run `python ./scripts/merge_duplicates.py`.
+
