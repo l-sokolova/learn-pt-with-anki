@@ -44,14 +44,14 @@ a venda : продаж
 a alcunha : кличка
 o congelador : морозилка
 os pesadelos : кошмари
-a insônia : бессоння 
+a insônia : бессоння
 o sono profundo : гарний сон
 a alma : душа
 a planta : схема, план
 a esquina : куток (вулиць)
 o canto : куток (кімнати)
 o cruzamento : перехрестя
-o passeiro : тротуар 
+o passeiro : тротуар
 a passadeira : перехід
 o semáforo : світлофор
 a praça : площа, де тільки люди
@@ -73,9 +73,9 @@ a vivenda : невеликий будинок
 a moradia : вілла
 os estores : ставні, ролети
 as casas geminadas : зʼєднані будинки
-o craque : вундеркід 
+o craque : вундеркід
 a série : серіал
-as obras : ремонтні роботи, будівництво 
+as obras : ремонтні роботи, будівництво
 a mão de obra : робоча сила
 a leitura : лічильник
 a folga : вихідний
@@ -111,13 +111,13 @@ café em chavena fria : кава в хододному посуді
 a carga : багаж
 os dados móveis : мобільні дані
 a ausência : відсутність
-a presença : присутність 
+a presença : присутність
 o grelhamento : гриль
 
 
 ter pena de : шкодувати про щось
-lamentar : висловлювати жаль (особливо коли трапилось щось трагічне)
-oferecer, dar : дарувати 
+lamentar : висловлювати жаль (особливо коли трапилось щось трагічне), шкодувати
+oferecer, dar : дарувати
 felicitar : бажати щастя
 aceitar : приймати
 recusar : відхиляти
@@ -125,7 +125,7 @@ combiar : домовлятись
 agradecer : бути вдячним, дякувати
 obrigar : змушувати
 marcar : назначати
-alogar : знімати в оренду 
+alogar : знімати в оренду
 roubar : красти
 esconder : ховати
 encomendar : замовляти (завчасно)
@@ -135,8 +135,7 @@ engordar : набирати вагу
 emagrecer : худнути
 encontrar : знаходити, придумувати
 deter : конфіскувати
-desconfiar de : підозрювати 
-lamentar : шкодувати
+desconfiar de : підозрювати
 insistir : наполягати
 negociar : торгуватися
 servir : обслуговувати, послуговувати
@@ -152,18 +151,18 @@ atravessar : перетинати
 enganar-se : помилятися
 perder-se : загубитися
 demorar : затримуватися, тривати, забирати часу
-estar sentado : сидіти 
-sentar : сідати 
+estar sentado : сидіти
+sentar : сідати
 estar deitado : лежати
 deitar : лягати
 adiar : переносити, відкладати
-acordar : прокидатись 
+acordar : прокидатись
 adormecer : засинати
 incomodar : заважати, турбувати
 ter soneca : дрімати
 convidar : запрошувати
 habituar-se : звикнути, привчати себе
-costumar : мати звичку 
+costumar : мати звичку
 ter certeza de : бути впевненим в
 fazer-se um favor : робити послугу
 lembrar-se de : памʼятати, згадувати
@@ -172,16 +171,15 @@ fazer malha : вʼязати
 contar : розповідати, рахувати (про гроші)
 tomar conta : приглядати, спостерігати
 beijar : цілувати
-emprestar : позичати
+emprestar : позичати, позичити комусь
 apanhar a moca : зловити пріход (кайф)
 poupar : зекономити
 queixar-se : жалітись
 reclamar : скаржитися
 procurar : шукати
 caregar : тягнути, заряджати
-emprestar : позичити комусь
 pedir emprestado : позичити в когось
-dobrar : складати, згортати 
+dobrar : складати, згортати
 
 Não é legal! : Це не прикольно!
 Não me serve : Мені не підходить
@@ -199,16 +197,16 @@ perdidos e achados : lost&found
 em frente de : перед (лице до лиця)
 a frente de : попереду (один за одним)
 ao lado de : збоку
-perto de : близько 
+perto de : близько
 ao pé de : поблизу (типу рукою подати)
 a pé : пішки
 de pé : навстоячки
 geralmente : Загалом
-maioritariamente : переважно 
+maioritariamente : переважно
 demais : занадто
-exceto : окрім 
+exceto : окрім
 logo : відразу
-mais logo : пізніше 
+mais logo : пізніше
 talvez : напевно
 em cima da hora : якраз вчасно
 no sentido de : в сенсі
