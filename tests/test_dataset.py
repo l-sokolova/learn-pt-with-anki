@@ -1,7 +1,7 @@
 import pathlib
 
-DATASET_FILE = pathlib.Path("../deck_pt_ua.txt")  # adjust if path is different
-
+HERE = pathlib.Path(__file__).parent.resolve()
+DATASET_FILE = HERE.parent / "deck_pt_ua.txt"  # adjust path if needed
 
 def load_dataset():
     lines = []
