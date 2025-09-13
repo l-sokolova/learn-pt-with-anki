@@ -331,3 +331,53 @@ o drama (masculino!) : драма
 o idioma (masculino!) : мова (language)
 o clima (masculino!) : клімат
 o dilema (masculino!) : дилема
+
+# Урок: Спілкування в тренажерному залі та лексика
+# - Питання дозволу: Якщо ви хочете скористатися тренажером, який зайнятий, завжди можна запитати:
+
+vai demorar muito? : Ви ще довго будете? (наприклад займатись на тренажері)
+
+quantas vezes faltam para acabar? : Скільки разів залишилось до кінця?
+Podemos fazer um por um/ revezar? : Можна з вами по черзі?
+posso ser depois de vocês : Можу я після вас?
+POSSO FAZER O EXERCICIO CONSIGO/ uma vez eu, uma vez você : Можу я робити вправу з вами/ раз я, раз ви
+Precisa de um spotter? : Вам потрібен страхувальник?
+# Тренажери та обладнання:
+aparelho : Тренажер
+halteres : Гантелі
+barra : Штанга
+kettlebell (так само, як в англійській) : Гиря
+
+esteira/tapete rolante/passadeira: Бігова доріжка
+elíptico/ bicicleta : Еліптичний тренажер
+banco de pressão/supino : Лава для пресу/жим лежачи
+cinta : Ремінь
+toalha : Рушник
+
+# Частини тіла:
+músculos : М’язи
+
+ombros : Плечі
+
+levantar : Піднімати
+puxar : Тягнути
+pressionar : жати
+agachar, agachamentos : Присідати, присідання
+alongar-se : Розтягуватися
+treinar : Тренуватися
+Preciso pressionar a barra com força : Мені потрібно сильно жати штангу
+Empurre a barra para cima : Штовхайте штангу вгору
+Levante a barra devagar : Піднімайте штангу повільно
+Executar o supino : жим лежачи.
+Vou executar o supino agora : Я зараз виконуватиму жим лежачи
+Quantas séries faltam : Скільки підходів у вас залишилося
+Posso pegar esses halteres: Я можу взяти ці гантелі
+Como faço esse exercício corretamente? : Як правильно виконувати цю вправу?
+Quais músculos esse exercício trabalha? : Які м’язи працюють у цій вправі?
+
+
+Você pode me fazer de spotter?, Preciso de um spotter, pode me ajudar?, Pode me ajudar a segurar? : Можеш мене підстрахувати?
+mais 5 minutos e eu termino : ще 5 хвилин і я закінчую
+vai demorar muito nesse aparelho? : Ви ще довго будете на цьому тренажері
+Você precisa manter as costas retas e os pés alinhados. : Вам потрібно тримати спину прямо, а ноги рівно.
+Não esqueça de respirar durante o exercício. : Не забувайте дихати під час вправи.
