@@ -171,14 +171,13 @@ fazer malha : вʼязати
 contar : розповідати, рахувати (про гроші)
 tomar conta : приглядати, спостерігати
 beijar : цілувати
-emprestar : позичати
+emprestar : позичати, позичити комусь
 apanhar a moca : зловити пріход (кайф)
 poupar : зекономити
 queixar-se : жалітись
 reclamar : скаржитися
 procurar : шукати
 caregar : тягнути, заряджати
-emprestar : позичити комусь
 pedir emprestado : позичити в когось
 dobrar : складати, згортати
 
