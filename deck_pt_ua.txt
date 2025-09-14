@@ -18,7 +18,7 @@ estabelecido : встановлений
 habituado : звиклий
 esperto : хитророзумний (smart)
 orgulhoso : гордий 
-alogado : орндований
+alugado : орeдований
 cru/crua : сирий
 estragada : зіпсований
 mocado : накурений, під кайфом
@@ -125,7 +125,7 @@ combiar : домовлятись
 agradecer : бути вдячним, дякувати
 obrigar : змушувати
 marcar : назначати
-alogar : знімати в оренду
+alugar : знімати в оренду
 roubar : красти
 esconder : ховати
 encomendar : замовляти (завчасно)
