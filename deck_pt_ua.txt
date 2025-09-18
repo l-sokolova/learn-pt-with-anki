@@ -22,6 +22,7 @@ alugado : орeдований
 cru/crua : сирий
 estragada : зіпсований
 mocado : накурений, під кайфом
+inesperado : неочікуваний 
 
 
 a esteja : премʼєра
@@ -124,6 +125,14 @@ o drama (masculino!) : драма
 o idioma (masculino!) : мова (language)
 o clima (masculino!) : клімат
 o dilema (masculino!) : дилема
+a caça : полювання
+o tesouro : скарб 
+o prerigo : небезпека
+o vidro de para-brisas : лобове скло
+o esconderijo : схованка
+a hipótese : припущення, варіант, гіпотеза
+a ida : шлях
+a ressurreição : воскресіння
 
 
 ter pena de : шкодувати про щось
@@ -191,6 +200,19 @@ procurar : шукати
 caregar : тягнути, заряджати
 pedir emprestado : позичити в когось
 dobrar : складати, згортати
+acabar : закінчувати
+acabar em : опинитися в (місці, положенні якось неочікувано)
+aturar : терпіти
+estar à procura : шукати (бути в пошуку)
+estar à espera : чекати (бути в очікування)
+sofocar : душити
+sofocar-se : задихатись
+ir embora : забиратись (йти) геть
+ir atrás de : гнатися за кимось
+aumentar : підвищувати, збільшувати
+causar : спричиняти
+notar : помітити
+
 
 Não é legal! : Це не прикольно!
 Não me serve : Мені не підходить
@@ -227,6 +249,7 @@ desde aí : відтоді
 há muito tempo : давно 
 desde criança : з дитинства
 a parte : вбік
+inesperadamente : неочікувано
 
 
 Queria um pedaço maior / menor, por favor. : Я хотів/хотіла б більший / менший шматок, будь ласка.
