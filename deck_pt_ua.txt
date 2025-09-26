@@ -22,7 +22,9 @@ alugado : орeдований
 cru/crua : сирий
 estragada : зіпсований
 mocado : накурений, під кайфом
-inesperado : неочікуваний 
+inesperado : неочікуваний
+desiludido em : розчарований в чомусь абстрактному / загальному
+desiludido com : розчарований кимось / чимось конкретним
 
 
 a esteja : премʼєра
@@ -105,7 +107,7 @@ o convite : запрошення
 o encontro : зустріч
 a prenda, o presente : подарунок
 o escaldão : опік шкіри
-a fuga : витік
+a fuga : витік/втеча
 o/a queixinha : ябіда
 café escaldada : кава в підігрітій чашці
 café em chavena fria : кава в хододному посуді
@@ -133,6 +135,18 @@ o esconderijo : схованка
 a hipótese : припущення, варіант, гіпотеза
 a ida : шлях
 a ressurreição : воскресіння
+a dor dos diabos : дуже сильний біль
+a ressaca dos diabos : страшне похмілля
+o prisioneiro : в’язень
+o segurança : охоронець
+a maneira de fugir : спосіб утекти
+a escapada : коротка втеча / вилазка
+a ameaça : погроза
+a amizade : дружба
+a reviravolta na história : крутий поворот сюжету
+a vespa : оса
+a floresta : ліс
+os árvores : дерева
 
 
 ter pena de : шкодувати про щось
@@ -212,6 +226,18 @@ ir atrás de : гнатися за кимось
 aumentar : підвищувати, збільшувати
 causar : спричиняти
 notar : помітити
+levar a situação : сприймати ситуацію
+arrepender-se : шкодувати / каятися
+saber algo de : знати щось про (щось/когось)
+prometer : обіцяти
+gozar com : насміхатися з когось
+maltratar : погано поводитися / знущатися
+tratar : поводитися / лікувати / обслуговувати (залежно від контексту)
+escapar : тікати / утекти
+sentir-se à vontade : почуватися вільно / комфортно
+sorrir : усміхатися
+ser capaz de  : бути здатним
+ser/ficar complicado : бути / ставати складним
 
 
 Não é legal! : Це не прикольно!
@@ -226,6 +252,8 @@ Felicidades! : Щастя!
 Meus sentimentos : Мої співчуття
 a cara traneada : pocker face
 perdidos e achados : lost&found
+isso não mete piada : це не смішно
+não faz sentido nenhum : немає ніякого сенсу
 
 em frente de : перед (лице до лиця)
 a frente de : попереду (один за одним)
@@ -250,7 +278,8 @@ há muito tempo : давно
 desde criança : з дитинства
 a parte : вбік
 inesperadamente : неочікувано
-
+um ao outro : одне одному
+por amizade : через дружбу
 
 Queria um pedaço maior / menor, por favor. : Я хотів/хотіла б більший / менший шматок, будь ласка.
 Pode pesar antes de cortar? : Можете зважити перед тим, як різати?
