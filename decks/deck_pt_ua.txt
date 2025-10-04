@@ -250,7 +250,7 @@ ser/ficar complicado : бути / ставати складним
 Não é legal! : Це не прикольно!
 Não me serve : Мені не підходить
 Volta sempre! : Повертайтесь ще!
-Sabia dizer:me.. : Підкажіть, будь ласка...
+Sabia dizer-me.. : Підкажіть, будь ласка...
 Sei lá! : Я там знаю, хз!
 Vamos lá! : Погнали!
 Faz parte! : Така доля!
