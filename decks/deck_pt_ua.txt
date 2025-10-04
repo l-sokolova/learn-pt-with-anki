@@ -147,8 +147,16 @@ a reviravolta na história : крутий поворот сюжету
 a vespa : оса
 a floresta : ліс
 os árvores : дерева
+a mulher (o homem) das sombras : сірий кардинал
+o assunto : тема (issue, subject)
+o perfil : профіль
 
-
+perguntar : запитувати
+estrear : дебютувати
+alcançar : досягти
+meter fogo : розпалювати багаття
+levar a mal : сприймати погано
+jologar : засуджувати
 ter pena de : шкодувати про щось
 lamentar : висловлювати жаль (особливо коли трапилось щось трагічне), шкодувати
 oferecer, dar : дарувати
@@ -232,7 +240,7 @@ saber algo de : знати щось про (щось/когось)
 prometer : обіцяти
 gozar com : насміхатися з когось
 maltratar : погано поводитися / знущатися
-tratar : поводитися / лікувати / обслуговувати (залежно від контексту)
+tratar de : поводитися / лікувати / обслуговувати (залежно від контексту)
 sentir-se à vontade : почуватися вільно / комфортно
 sorrir : усміхатися
 ser capaz de  : бути здатним
@@ -279,6 +287,7 @@ a parte : вбік
 inesperadamente : неочікувано
 um ao outro : одне одному
 por amizade : через дружбу
+o mais rápido posivel : якнайшвидше 
 
 Queria um pedaço maior / menor, por favor. : Я хотів/хотіла б більший / менший шматок, будь ласка.
 Pode pesar antes de cortar? : Можете зважити перед тим, як різати?
