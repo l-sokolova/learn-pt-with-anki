@@ -1,3 +1,0 @@
-ver :   eu vi, tu viste, ele viu, nós vimos, eles viram
-pôr :   eu pus, tu puseste, ele pôs, nós pusemos, eles puseram
-
