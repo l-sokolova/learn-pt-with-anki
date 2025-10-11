@@ -26,3 +26,6 @@ seguir : eu segui, tu seguiste, ele seguiu, nós seguimos, eles seguiram
 fugir : eu fugi, tu fugiste, ele fugiu, nós fugimos, eles fugiram
 cobrir : eu cobri, tu cobriste, ele cobriu, nós cobrimos, eles cobriram
 ler : eu li, tu leste, ele leu, nós lemos, eles leram
+ficar : eu fiquei, tu ficaste, ele ficou, nós ficamos, eles ficaram
+sair : eu saí, tu saíste, ele saiu, nós saímos, eles saíram
+servir : eu servi, tu serviste, ele serviu, nós servimos, eles serviram
