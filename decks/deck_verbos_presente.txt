@@ -26,3 +26,6 @@ seguir : eu sigo, tu segues, ele segue, nós seguimos, eles seguem
 fugir : eu fujo, tu foges, ele foge, nós fugimos, eles fogem
 cobrir : eu cubro, tu cobres, ele cobre, nós cobrimos, eles cobrem
 ler : eu leio, tu lês, ele lê, nós lemos, eles leem
+ficar : eu fico, tu ficas, ele fica, nós ficamos, eles ficam
+sair : eu saio, tu sais, ele sai, nós saímos, eles saem
+servir : eu sirvo, tu serves, ele serve, nós servimos, eles servem
